@@ -1,1 +1,2 @@
 this is the first line in local repo master
+this is the 2nd line added by local repo branch b1
